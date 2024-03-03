@@ -1,33 +1,58 @@
-<a href="https://github.com/albin-shaju">
-  <img src="https://images.pexels.com/photos/4383298/pexels-photo-4383298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Banner Image" width="100%" height="300">
-</a>
+<h4 align="left">Hi 👋! My name is ALBIN SHAJU and I'm a passionate VLSI enthusiast from Kochi.</h4>
 
-<h1 align="center">Hi 👋, I'm Albin</h1>
-<h3 align="center">A passionate software enthusiast from Kochi</h3>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albin-shaju&label=Profile%20views&color=0e75b6&style=flat" alt="albin-shaju" /> </p>
-
-- 🔭 I’m currently working on **3d image mapping**
-- 🌱 I’m currently learning **Robotics and ML**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/albin-shaju-588575231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albin-shaju-588575231" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <div align="center">
-
-<p align="center"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albin-shaju&show_icons=true&locale=en&layout=compact" alt="albin-shaju" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Albin-shaju&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Albin-shaju&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Albin-shaju&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blue-green&hide_border=false" height="149" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="152" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3U3YTNpcnVkZ2FoYmZ6OXU5bnd6ZGd4NW01MjJ2Y3prbmQ2eGc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="albinzzz441@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/albin--shaju/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077E6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Albin-shaju/Albin-shaju/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Albin-shaju/count.svg?"  />
+</div>
+
+###
